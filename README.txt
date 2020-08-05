@@ -1,0 +1,9 @@
+datapaths.txt 
+
+MIRCam_BPMap_SkyFlat
+LMIRCam_SkyBG
+LMIRCam_SkyBG_PSF
+LMIRCam_extract_PSF
+LMIRCam_reduce_Science
+LMIRCam_extract_bands, phot=phot
+LMIRCam_remove_frame
